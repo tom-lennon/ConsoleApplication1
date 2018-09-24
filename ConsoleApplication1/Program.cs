@@ -11,7 +11,7 @@ namespace ConsoleApplication1 {
 		static void Main(string[] args) {
 			
 			Console.WriteLine("A simple console application.");
-			Console.WriteLine("Adding a new line to flag a change within GIT");
+			Console.WriteLine("Adding a new line to flag a change within SourceTree");
 			//var s = new Subclass();
 			//s.Write();
 			TestClass.TestWrite();
