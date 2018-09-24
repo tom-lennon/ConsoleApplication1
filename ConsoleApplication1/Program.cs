@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ConsoleApplication1.Subfolder;
+using ConsoleApplication1.TestFolder;
 
 namespace ConsoleApplication1 {
 	class Program {
@@ -13,7 +14,7 @@ namespace ConsoleApplication1 {
 			Console.WriteLine("Adding a new line to flag a change within GIT");
 			//var s = new Subclass();
 			//s.Write();
-
+			TestClass.TestWrite();
 		}
 	}
 }
