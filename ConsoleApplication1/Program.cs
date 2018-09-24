@@ -10,6 +10,8 @@ namespace ConsoleApplication1 {
 		static void Main(string[] args) {
 			
 			Console.WriteLine("A simple console application.");
+			Console.WriteLine("Adding a new line to flag a change within GIT");
+			Console.WriteLine("Adding a third line to flag an unstaged change within GIT to demonstrate use of diff command");
 			//var s = new Subclass();
 			//s.Write();
 
