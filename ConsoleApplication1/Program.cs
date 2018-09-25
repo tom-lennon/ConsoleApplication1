@@ -13,6 +13,7 @@ namespace ConsoleApplication1 {
 			Console.WriteLine("A simple console application.");
 			Console.WriteLine("Adding a new line to flag a change within SourceTree");
 			Console.WriteLine("Adding a second line to flag a change from SourceTree to Github");
+			Console.WriteLine("Adding a line to test an automatic push to Jenkins after a Github commit.");
 			//var s = new Subclass();
 			//s.Write();
 			TestClass.TestWrite();
